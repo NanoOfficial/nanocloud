@@ -2,7 +2,7 @@
 // @author: Krisna Pranav
 // @license: Copyright (c) 2023, Nano Blocks, Krisna Pranav
 
-package config
+package common
 
 import (
 	"errors"
